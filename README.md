@@ -1,4 +1,4 @@
-tribe-events-exporter
+The Events Calendar: API
 =====================
 
-A simple addon to export your events from Tribe Event Calendar.
+A quiet WordPress plugin to add API functionality to your The Events Calendar plugin.
